@@ -1,0 +1,16 @@
+id,title,category,priority,status,due_date
+1,Complete Python file handling practice,Learning,High,Pending,2026-11-08
+2,Revise SQL joins and queries,Learning,Medium,In Progress,2026-11-09
+3,Build MindMate data ingestion module,Project,High,In Progress,2026-11-10
+4,Prepare Python interview questions,Career,Medium,Pending,2026-11-11
+5,Update project README documentation,Project,Low,Completed,2026-11-06
+6,Practice object oriented programming,Learning,High,Pending,2026-11-12
+7,Review Git branching and commits,Learning,Medium,Completed,2026-11-07
+8,Design MindMate task dashboard,Project,High,Pending,2026-11-13
+9,Organize weekly study schedule,Personal,Low,Completed,2026-11-07
+10,Read Python pathlib documentation,Learning,Medium,In Progress,2026-11-10
+11,Test CSV validation in MindMate,Project,High,Pending,2026-11-14
+12,Prepare resume project descriptions,Career,Medium,In Progress,2026-11-15
+13,Complete daily coding practice,Learning,High,Completed,2026-11-07
+14,Back up MindMate source files,Project,Low,Pending,2026-11-16
+15,Plan goals for next week,Personal,Medium,Pending,2026-11-16
